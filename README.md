@@ -16,7 +16,8 @@ A modern, responsive landing page showcasing the latest **Wuthering Waves Versio
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://kei404-a.github.io/LandingPage_WutheringWaves)
+[View Live Demo](https://kei404-a.github.io/LandingPage_WutheringWaves)  
+It is highly recommended to open the live demo with the same resolution and screen width/length as your desktop screen.
 
 ## 📸 Screenshots
 
