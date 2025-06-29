@@ -19,10 +19,10 @@ A modern, responsive landing page showcasing the latest **Wuthering Waves Versio
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](assets/screenshots/desktop-view.png)
+![Desktop Screenshot](assets/screenshots/desktop-view.png.png)
 
 ### Mobile View
-![Mobile Screenshot](assets/screenshots/mobile-view.png)
+![Mobile Screenshot](assets/screenshots/mobile-view.png.png)
 
 ## 🎮 What's New in Version 2.4
 
