@@ -14,7 +14,7 @@ A modern, responsive landing page showcasing the latest **Wuthering Waves Versio
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://yourusername.github.io/SimpleLandingPage_WutheringWaves) *(Replace with your actual GitHub Pages URL)*
+[View Live Demo](https://kei404-a.github.io/LandingPage_WutheringWaves)
 
 ## 📸 Screenshots
 
@@ -74,12 +74,12 @@ LANDINGPAGE/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SimpleLandingPage_WutheringWaves.git
+   git clone https://github.com/KEI404-A/LandingPage_WutheringWaves.git
    ```
 
 2. **Navigate to project directory**
    ```bash
-   cd SimpleLandingPage_WutheringWaves
+   cd LandingPage_WutheringWaves
    ```
 
 3. **Open in browser**
@@ -172,9 +172,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**KEI404-A** - [fadhilannaufalm@gmail.com](mailto:fadhilannaufalm@gmail.com)
 
-**Project Link**: [https://github.com/yourusername/SimpleLandingPage_WutheringWaves](https://github.com/yourusername/SimpleLandingPage_WutheringWaves)
+**Project Link**: [https://github.com/KEI404-A/LandingPage_WutheringWaves](https://github.com/KEI404-A/LandingPage_WutheringWaves)
 
 ---
 
