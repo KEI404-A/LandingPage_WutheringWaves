@@ -1,5 +1,7 @@
 # SimpleLandingPage_WutheringWaves
 
+![Wuthering Waves Banner](https://raw.githubusercontent.com/KEI404-A/LandingPage_WutheringWaves/main/preview.png)
+
 A modern, responsive landing page showcasing the latest **Wuthering Waves Version 2.4** update information. Built with vanilla JavaScript, CSS, and HTML to provide users with a comprehensive overview of new characters, areas, and exciting game features.
 
 ## 🌟 Features
@@ -19,10 +21,10 @@ A modern, responsive landing page showcasing the latest **Wuthering Waves Versio
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](assets/screenshots/desktop-view.png.png)
+![Desktop Screenshot](screenshots/desktop-view.png.png)
 
 ### Mobile View
-![Mobile Screenshot](assets/screenshots/mobile-view.png.png)
+![Mobile Screenshot](screenshots/mobile-view.png.png)
 
 ## 🎮 What's New in Version 2.4
 
