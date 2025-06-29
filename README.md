@@ -1,7 +1,5 @@
 # SimpleLandingPage_WutheringWaves
 
-![Wuthering Waves Banner](https://via.placeholder.com/800x200/1a1a2e/eee?text=Wuthering+Waves+2.4+Update)
-
 A modern, responsive landing page showcasing the latest **Wuthering Waves Version 2.4** update information. Built with vanilla JavaScript, CSS, and HTML to provide users with a comprehensive overview of new characters, areas, and exciting game features.
 
 ## 🌟 Features
