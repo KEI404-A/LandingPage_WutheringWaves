@@ -1,0 +1,16 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore audio/video cache or backup
+*.mp3
+*.mp4
+*.zip
+*.rar
+*.bak
+
+# Ignore node_modules (jika pakai npm di masa depan)
+node_modules/
+
+# VS Code settings
+.vscode/
